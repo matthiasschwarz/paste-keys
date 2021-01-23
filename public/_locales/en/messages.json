@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "PasteKeys",
+    "description": ""
+  },
+  "extDescription": {
+    "message": "Insert text into an input field or clipboard by pressing keys",
+    "description": ""
+  }
+}
