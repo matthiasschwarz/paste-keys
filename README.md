@@ -1,6 +1,6 @@
 # PasteKeys
 
-> Chrome extension which allows inserting text into an input field or clipboard by pressing keys 
+> Chrome extension which allows inserting text into an input field or the clipboard by pressing keys 
 
 ## License
 
