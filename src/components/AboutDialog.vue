@@ -18,11 +18,13 @@
       </v-card-title>
       <v-card-text>
         <div>PasteKeys {{ version }}</div>
-        <div>Licensed under <a href="">GPLv3</a></div>
+        <div>Licensed under <a href="LICENSE" target="_blank">GPLv3</a></div>
         <div>Developed by {{ author }}</div>
         <div>
           Open-source on
-          <a href="https://github.com/matthiasschwarz/PasteKeys" target="_blank"
+          <a
+            href="https://github.com/matthiasschwarz/paste-keys"
+            target="_blank"
             >GitHub</a
           >
         </div>
