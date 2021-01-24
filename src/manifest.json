@@ -17,9 +17,9 @@
     "default_popup": "popup.html",
     "default_title": "__MSG_extName__",
     "default_icon": {
-      "16": "icons/16-white.png",
-      "48": "icons/48-white.png",
-      "128": "icons/128-white.png"
+      "16": "icons/16.png",
+      "48": "icons/48.png",
+      "128": "icons/128.png"
     }
   },
   "content_scripts": [
